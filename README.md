@@ -7,7 +7,7 @@
 
 An intelligent, interactive web application designed to transform passive reading into active learning. Built as a Capstone Project for the IBM/Edunet AI/ML Internship, this tool leverages Large Language Models (LLMs) to break down complex topics, summarize dense notes, and automatically generate interactive assessments.
 
-🔗 **[Live Demo: Try the App Here!](https://hridayesh-ai-study-buddy.streamlit.app/)**
+🔗 **[Live Demo: Try the App Here!](https://hridayesh-ai-study-buddy-web.streamlit.app/)**
 
 ---
 
@@ -72,8 +72,8 @@ python -m streamlit run app.py
 
 ## 👨‍💻 Author
 
-**Puttamraju Krishna Hridayesh Kumar**
-*Undergraduate Student (B.Tech ECE) @ Koneru Lakshmaiah Education Foundation*
+**Puttamraju Krishna Hridayesh Kumar**<br>
+*Undergraduate Student (B.Tech ECE) @ Koneru Lakshmaiah Education Foundation*<br>
 *AI/ML Virtual Intern @ IBM / Edunet*
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/Hridayesh007)
