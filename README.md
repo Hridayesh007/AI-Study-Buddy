@@ -72,13 +72,6 @@ python -m streamlit run app.py
 
 ---
 
-## 📺 Project Demo
-Watch the AI-Powered Study Buddy in action:
-
-https://github.com/Hridayesh007/AICTE_Batch7_AI-Study-Buddy/assets/deployment.mp4
-
----
-
 ## 👨‍💻 Author
 
 **Puttamraju Krishna Hridayesh Kumar**<br>
