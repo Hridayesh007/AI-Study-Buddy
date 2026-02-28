@@ -70,8 +70,6 @@ python -m streamlit run app.py
 
 ---
 
----
-
 ## 👨‍💻 Author
 
 **Puttamraju Krishna Hridayesh Kumar**<br>
